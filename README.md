@@ -38,4 +38,7 @@
 <a href="https://www.math.pku.edu.cn/teachers/lidf" target="_blank">Julia李东风的主页</a>  
 <a href="https://www.jianshu.com/p/191d1e21f7ed" target="_blank">Markdown基本语法</a>  
 
-
+---  
+<a href="https://www.861.cn/Domain" target="_blank">易方861</a>  
+<a href="https://www.west.cn" target="_blank">西部数码</a>  
+<a href="https://www.dynadot.com/zh" target="_blank">dynadot.com</a> 

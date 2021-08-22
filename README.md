@@ -19,3 +19,6 @@
 箫声咽，秦娥梦断秦楼月。秦楼月，年年柳色，灞陵伤别。
 
 乐游原上清秋节，咸阳古道音尘绝。音尘绝，西风残照，汉家陵阙。
+
+
+<a href="https://julialang.org/downloads" target="_blank">Julia下载</a>

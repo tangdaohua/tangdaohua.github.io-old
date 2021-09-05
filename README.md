@@ -1,4 +1,4 @@
-## www.suiba.org    www.suiba.com    www.subm.net
+## www.suiba.org   
 ### 忆秦娥·娄山关
 毛泽东
 1935年

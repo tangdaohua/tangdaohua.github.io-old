@@ -35,7 +35,7 @@
 
 *** 
 >  <a href="https://julialang.org/downloads" target="_blank">Julia下载</a>  | <a href="https://www.math.pku.edu.cn/teachers/lidf" target="_blank">Julia李东风的主页</a> |
-<a href="https://www.jianshu.com/p/191d1e21f7ed" target="_blank">Markdown基本语法</a>  
+<a href="https://www.jianshu.com/p/191d1e21f7ed" target="_blank">Markdown基本语法</a>  | <a href="https://www.jianshu.com/p/b4072805fba2" target="_blank">使用Markdown语言编辑</a>
 
 ---  
 >  <a href="https://www.861.cn/Domain" target="_blank">易方861</a>  | <a href="https://www.west.cn" target="_blank">西部数码</a> |

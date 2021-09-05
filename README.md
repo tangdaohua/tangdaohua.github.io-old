@@ -1,5 +1,5 @@
-# tangdaohua.github.io
-
+## tangdaohua.github.io
+## www.suiba.org
 ### 忆秦娥·娄山关
 毛泽东
 1935年
@@ -35,11 +35,12 @@
 ![Julia](https://julialang.org/assets/infra/logo.svg)  
 
 *** 
-<a href="https://julialang.org/downloads" target="_blank">Julia下载</a>             <a href="https://www.math.pku.edu.cn/teachers/lidf" target="_blank">Julia李东风的主页</a> 
+>  <a href="https://julialang.org/downloads" target="_blank">Julia下载</a>  | <a href="https://www.math.pku.edu.cn/teachers/lidf" target="_blank">Julia李东风的主页</a> |
 <a href="https://www.jianshu.com/p/191d1e21f7ed" target="_blank">Markdown基本语法</a>  
 
 ---  
-<a href="https://www.861.cn/Domain" target="_blank">易方861</a>           <a href="https://www.west.cn" target="_blank">西部数码</a> 
+>  <a href="https://www.861.cn/Domain" target="_blank">易方861</a>  | <a href="https://www.west.cn" target="_blank">西部数码</a> |
 <a href="https://www.dynadot.com/zh" target="_blank">dynadot.com</a>   
-***  
-<a href="https://suiba.com" target="_blank">www.suiba.com</a>             <a href="https://suiba.org" target="_blank">www.suiba.org</a>     <a href="https://suba.pw" target="_blank">www.suba.pw</a>       <a href="https://suba.ink" target="_blank">www.suba.ink</a>              <a href="https://subm.net" target="_blank">www.subm.net</a> 
+***   
+
+> <a href="https://suiba.com" target="_blank">www.suiba.com</a>   |  <a href="https://suiba.org" target="_blank">www.suiba.org</a>  |   <a href="https://suba.pw" target="_blank">www.suba.pw</a>   |    <a href="https://suba.ink" target="_blank">www.suba.ink</a>    | <a href="https://subm.net" target="_blank">www.subm.net</a> 

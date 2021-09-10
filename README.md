@@ -61,10 +61,10 @@
  ***    
  
 ###   EDUCATION
-BBA Business Economics
-BBA Finance
-Department of Economics and Finance 
-City University of Hong Kong , HK, China  
+BBA Business Economics ,
+BBA Finance ,  
+Department of Economics and Finance   
+City University of Hong Kong , HK, China  ,
 09/2021-06/2025
    
  *** 

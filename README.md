@@ -61,7 +61,8 @@
  ***    
  
 ###   EDUCATION
-BBA Business Economics ,
+Undergraduate Study Abroad
+BBA Business Economics 
 BBA Finance ,  
 Department of Economics and Finance   
 City University of Hong Kong , HK, China  ,

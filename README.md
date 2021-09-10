@@ -88,17 +88,10 @@ Lucky
 Be surrounded by smart and interesting people all the time  
 Keep learning  
 Eager to learn new knowledge 
-
-
-
-
-
-
-
-
-
-
- *** 
+   
+   
+   
+*** 
 
 ![image](https://user-images.githubusercontent.com/88881186/132870434-04b06000-faf5-44e3-a5e1-a7d9cd9284df.png)
 

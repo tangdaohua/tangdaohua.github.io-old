@@ -65,22 +65,36 @@ Undergraduate Study Abroad
 BBA Business Economics 
 BBA Finance ,  
 Department of Economics and Finance   
-City University of Hong Kong , HK, China  ,
+City University of Hong Kong , HK, 
 09/2021-06/2025
 
   
-###   Languages  
+###   LANGUAGES
 Chinese (Native)  
 English (Second-language)    
 English (Professional)    
 German (Second-language)   
 Cantonese  (Second-language)    
 
-###   Interests 
-Chinese lute  
-Skateboard  
-Swimming  
-Tennis  
+###   INTERESTS
+Chinese lute    
+Skateboard    
+Swimming    
+Tennis     
+Cooking   
+
+###   DESCRIBE MYSELF
+Lucky  
+Be surrounded by smart and interesting people all the time  
+Keep learning  
+Eager to learn new knowledge 
+
+
+
+
+
+
+
 
 
 

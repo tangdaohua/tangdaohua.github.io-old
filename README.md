@@ -67,7 +67,17 @@ BBA Finance ,
 Department of Economics and Finance   
 City University of Hong Kong , HK, China  ,
 09/2021-06/2025
-   
+
+  
+###   Languages  
+Chinese (Native)  
+English (Second-language)    
+English (Professional)    
+German (Second-language)   
+Cantonese  (Second-language)  
+ 
+ 
+ 
  *** 
 
 >  | <a href="https://julialang.org/downloads" target="_blank">Julia下载</a>  | <a href="https://www.math.pku.edu.cn/teachers/lidf" target="_blank">Julia李东风的主页</a> |

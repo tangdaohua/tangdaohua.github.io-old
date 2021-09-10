@@ -61,7 +61,7 @@
  ***    
  
 ###   EDUCATION
-Undergraduate Study Abroad
+Undergraduate Study Abroad   
 BBA Business Economics 
 BBA Finance ,  
 Department of Economics and Finance   

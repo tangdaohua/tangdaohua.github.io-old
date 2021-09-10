@@ -74,7 +74,20 @@ Chinese (Native)
 English (Second-language)    
 English (Professional)    
 German (Second-language)   
-Cantonese  (Second-language)  
+Cantonese  (Second-language)    
+
+###   Interests 
+Chinese lute  
+Skateboard  
+Swimming  
+Tennis  
+
+
+
+ *** 
+
+![image](https://user-images.githubusercontent.com/88881186/132870434-04b06000-faf5-44e3-a5e1-a7d9cd9284df.png)
+
  
  
  

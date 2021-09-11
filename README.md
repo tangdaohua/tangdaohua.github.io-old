@@ -149,11 +149,7 @@ Perl & JAVA
 Linux & C & VB  
 Design and implement database structures  
 
-***  
 
-![image](https://user-images.githubusercontent.com/88881186/132870434-04b06000-faf5-44e3-a5e1-a7d9cd9284df.png)
-  
-  
 ***  
 >  | <a href="https://julialang.org/downloads" target="_blank">Julia下载</a>  | <a href="https://www.math.pku.edu.cn/teachers/lidf" target="_blank">Julia李东风的主页</a> |
 <a href="https://www.jianshu.com/p/191d1e21f7ed" target="_blank">Markdown基本语法</a>  | <a href="https://www.jianshu.com/p/b4072805fba2" target="_blank">使用Markdown语言编辑</a> |

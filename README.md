@@ -128,6 +128,16 @@ Excellence in Mathematical Modeling Award, HZAU    09/2014
 ###   PUBLICATIONS    
 Zhao T#, Fu Y#, Zhu J#, Liu Y#, Zhang Q#, et al. Single-Cell RNA-Seq Reveals Dynamic Early Embryonic-like Programs during Chemical Reprogramming. Cell Stem Cell (2018).
 
+
+###   SKILLS & PROFICIENCY     
+R & Matlab    
+Python & Julia  
+PostgreSQL & MySQL    
+HTML5 & CSS & JS    
+Sketch & Photoshop & AI    
+Perl & JAVA    
+Linux & C & VB  
+Design and implement database structures  
       
       
       

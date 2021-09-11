@@ -62,8 +62,8 @@
  
 ###   EDUCATION
 Undergraduate Study Abroad   
-BBA Business Economics  , 
-BBA Finance ,  
+BBA Business Economics, 
+BBA Finance ,     
 Department of Economics and Finance   
 City University of Hong Kong , HK, 
 09/2021-06/2025
@@ -84,19 +84,54 @@ Tennis
 Cooking   
    
    
-###   DESCRIBE MYSELF
+###   DESCRIBE MYSELF  
 Lucky  
 Be surrounded by smart and interesting people all the time  
 Keep learning  
-Eager to learn new knowledge  
+Eager to learn new knowledge    
+  
+  
+###   RESEARCH EXPERIENCES  
+Howard Hughes Medical Institute | Harvard Medical School, USA
+02/2019 - Present
+Bioinformatician (Advisor: Dr. Yi Zhang)
+❥ Develop analysis algorithm for new technology, low-input Ribolace-seq
+❥ Infer treatment for Pancreatic Cancer with organoid culture system
 
+Collaborated with Dr. David Scadden (Harvard University)
+❥ Identify fate decision factors responsible for osteosarcoma with single-cell RNA-seq
 
+Collaborated with Dr. Xiaojie Qiu (HHMI, UCSF)
+❥ Contribute to a powerful tool to map single-cell manifold via structure learning
+❥ Apply this new method to hematopoiesis, organoid and other differentiation system
 
+Peking University, China
+01/2017 - 01/2019
+Research Assistant (Advisor: Dr. Cheng Li & Dr. Hongkui Deng)
+❥Depict chemical reprogramming trajectory with single-cell RNA-seq
+❥Reconstruct trajectory and regulatory network for reprogrammed pancreatic beta cells
+
+University of Birmingham, UK
+01/2016 - 12/2016
+Undergraduate student (Advisor: Dr. Jan Ulrich Kreft)
+❥Mathematical modeling of plasmid dynamics in both chemostats and biofilms
+❥Contributor for software iDynoMics 1.0
     
     
+###   HONORS & AWARDS  
+Huakui Chen (an academician of Chinese Academy of Sciences) Scholarship, HZAU   12/2016
+Merit Student Award Scholarship, HZAU      05/2016
+Gold Medal Award, iGEM Committee      10/2015
+the Best Information Processing Project Nomination, iGEM Committee   10/2015
+Merit Student Award Scholarship, HZAU   09/2015
+Excellent Undergraduate Student Scholarship, Chinese Scholarship Council (CSC)  05/2015
+Gold Medal Award, iGEM Committee   11/2014
+Excellence in Mathematical Modeling Award, HZAU    09/2014    
     
-    
-    
+
+###   PUBLICATIONS  
+Zhao T#, Fu Y#, Zhu J#, Liu Y#, Zhang Q#, et al. Single-Cell RNA-Seq Reveals Dynamic Early Embryonic-like Programs during Chemical Reprogramming. Cell Stem Cell (2018).
+
       
       
       

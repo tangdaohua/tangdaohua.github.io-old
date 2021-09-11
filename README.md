@@ -38,8 +38,8 @@
    
 ###    快速访问github
  
-140.82.112.4     github.com   
-140.82.113.3     gist.github.com   
+140.82.114.3     github.com   
+140.82.114.4     gist.github.com   
 185.199.108.153  assets-cdn.github.com   
 199.232.68.133   raw.githubusercontent.com   
 199.232.68.133   gist.githubusercontent.com   
@@ -53,16 +53,8 @@
 199.232.68.133 avatars5.githubusercontent.com  
 199.232.68.133 avatars6.githubusercontent.com  
 199.232.68.133 avatars7.githubusercontent.com  
-199.232.68.133 avatars8.githubusercontent.com    
-   
-140.82.114.3         github.com  
-140.82.112.3         github.com    #for  access github.com  
-185.199.108.153      assets-cnd.github.com  #for  access github.com  
-199.232.69.194       gibhut.global.ssl.fastly.net  #for  access github.com  
-  
-140.82.114.4        gist.github.com  
-199.232.68.133      camo.githubusercontent.com  
-52.192.72.89        github.com  
+199.232.68.133 avatars8.githubusercontent.com
+199.232.69.194       gibhut.global.ssl.fastly.net  #for  access github.com    
   
   
 将上面的信息加到host文件下（C:\windows\System32\drivers\etc\host）   

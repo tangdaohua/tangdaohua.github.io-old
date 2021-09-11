@@ -92,26 +92,26 @@ Eager to learn new knowledge
   
   
 ###   RESEARCH EXPERIENCES  
-** Howard Hughes Medical Institute | Harvard Medical School, USA ,  02/2019 - Present   **
-Bioinformatician (Advisor: Dr. Yi Zhang)  
-❥ Develop analysis algorithm for new technology, low-input Ribolace-seq  
+**  Howard Hughes Medical Institute  Harvard Medical School, USA ,  02/2019 - Present   **  
+Bioinformatician (Advisor: Dr. Yi Zhang)    
+❥ Develop analysis algorithm for new technology, low-input Ribolace-seq      
 ❥ Infer treatment for Pancreatic Cancer with organoid culture system  
 
-Collaborated with Dr. David Scadden (Harvard University)  
+Collaborated with Dr. David Scadden (Harvard University)    
 ❥ Identify fate decision factors responsible for osteosarcoma with single-cell RNA-seq  
 
-Collaborated with Dr. Xiaojie Qiu (HHMI, UCSF)  
-❥ Contribute to a powerful tool to map single-cell manifold via structure learning
+Collaborated with Dr. Xiaojie Qiu (HHMI, UCSF)    
+❥ Contribute to a powerful tool to map single-cell manifold via structure learning    
 ❥ Apply this new method to hematopoiesis, organoid and other differentiation system
 
-** Peking University, China  ,  01/2017 - 01/2019  **
-Research Assistant (Advisor: Dr. Cheng Li & Dr. Hongkui Deng) 
-❥Depict chemical reprogramming trajectory with single-cell RNA-seq  
+**  Peking University, China  ,  01/2017 - 01/2019  **
+Research Assistant (Advisor: Dr. Cheng Li & Dr. Hongkui Deng)   
+❥Depict chemical reprogramming trajectory with single-cell RNA-seq    
 ❥Reconstruct trajectory and regulatory network for reprogrammed pancreatic beta cells  
 
-**University of Birmingham, UK  ,    01/2016 - 12/2016  **   
-Undergraduate student (Advisor: Dr. Jan Ulrich Kreft)  
-❥Mathematical modeling of plasmid dynamics in both chemostats and biofilms  
+** University of Birmingham, UK  ,    01/2016 - 12/2016  **   
+Undergraduate student (Advisor: Dr. Jan Ulrich Kreft)    
+❥Mathematical modeling of plasmid dynamics in both chemostats and biofilms    
 ❥Contributor for software iDynoMics 1.0   
     
     
